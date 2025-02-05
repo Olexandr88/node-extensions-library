@@ -10,7 +10,7 @@
 
 [![License](https://img.shields.io/github/license/Tenderly/node-extensions-library)](./LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/TenderlyApp?style=social)](https://twitter.com/intent/follow?screen_name=TenderlyApp)
-[![Github](https://img.shields.io/github/stars/Tenderly/node-extensions-library?style=social)](https://github.com/Tenderly/node-extensions-library)
+[![Github](https://img.shields.io/github/stars/Tenderly/node-extensions-library?style=social)](https://github.com/Tenderly/node-extensions-library/stargazers)
 
 </div>
 
